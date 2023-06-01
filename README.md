@@ -29,9 +29,9 @@
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="icons/webpack-colored.svg" alt="TypeScript" height="50" /></a>
 <a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="icons/gulp-plain.svg" alt="TypeScript" height="50" /></a>
 
-</td><td valign="top" width="33%">
+</div>
 
-<table><tr><td valign="top" width="33%">
+</td><td valign="top" width="33%">
 
 ### DevOps ⚡
 
@@ -47,7 +47,9 @@
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="icons/git-colored.svg" width="36" height="36" alt="Git" /></a>
 
-</td><td valign="top" width="33%">
+</div>
+
+</td></tr></table>
 
 ### Supporting
 
