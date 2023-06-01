@@ -25,8 +25,6 @@
 	<a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="icons/gulp-plain.svg" alt="gulpjs" height="50" /></a>
 </div>
 
----
-
 ## 💻 DevOps ⚡
 
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
