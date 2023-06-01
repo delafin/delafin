@@ -2,7 +2,7 @@
 
 ### <div align="center">I'm Maksym, a full-time front-end developer 😊</div>
 
-====================
+---
 
 ## My Skill Set ⚡
 
@@ -37,15 +37,15 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="icons/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px; width: 50px" src="icons/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="icons/docker-original-wordmark.svg" alt="AWS" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px; width: 50px" src="icons/docker-original-wordmark.svg" alt="AWS" height="50" /></a>
 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="icons/github.svg" alt="Git" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px; width: 50px" src="icons/github.svg" alt="Git" height="50" /></a>
 
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="icons/gitlab.svg" alt="Git" height="50" /></a>
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px; width: 50px" src="icons/gitlab.svg" alt="Git" height="50" /></a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="icons/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img style="margin: 10px; width: 50px" src="icons/git-colored.svg" width="36" height="36" alt="Git" /></a>
 
 </div>
 
