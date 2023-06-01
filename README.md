@@ -4,7 +4,7 @@
 
 ## My Skill Set ⚡
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%" style='border: none;'>
 
 ### Frontend ⚡
 
@@ -29,7 +29,7 @@
 
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" style="border: none;">
 
 ### DevOps ⚡
 
