@@ -10,7 +10,7 @@
 
 ### Frontend ⚡
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="icons/react-colored.svg" alt="React" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="icons/nextjs-colored.svg" alt="React" height="50" /></a>
@@ -35,7 +35,7 @@
 
 ### DevOps ⚡
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="icons/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 
