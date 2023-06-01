@@ -29,7 +29,7 @@
 
 </div>
 
-</td><td valign="top" width="33%" style="border: none;">
+</td><td valign="top" width="33%" border="none">
 
 ### DevOps ⚡
 
