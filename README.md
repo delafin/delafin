@@ -39,7 +39,7 @@
 
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px; width: 50px" src="icons/docker-original-wordmark.svg" alt="AWS" height="50" /></a>
 
-<a href="https://github.com/" target="_blank"><img style="height: 40px !important;width: 140p !important;" src="icons/github.svg" alt="Git" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px; display:block" src="icons/github.svg" alt="Git" height="50" /></a>
 
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px; width: 50px" src="icons/gitlab.svg" alt="Git" height="50" /></a>
 
