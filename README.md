@@ -30,9 +30,6 @@
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
 	<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px;" src="icons/amazonwebservices-original-wordmark.svg" alt="amazon" height="50" /></a>
 	<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px;" src="icons/docker-original-wordmark.svg" alt="docker" height="50" /></a>
-	<a href="https://github.com/" target="_blank"><img style="margin: 10px; display:block" src="icons/github.svg" alt="github" height="50" /></a>
-	<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px;" src="icons/gitlab.svg" alt="gitlab" height="50" /></a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img style="margin: 10px;" src="icons/git-colored.svg" width="36" height="36"  alt="git-scm"/></a>
 </div>
 
 ---
