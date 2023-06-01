@@ -55,4 +55,4 @@
 
 Many hours of hard work have gone into our projects. Your support will be very appreciated!
 
-<a href="https://www.buymeacoffee.com/lifinhime" target="_blank"><img src="icons/buymeacoffee-orange.svg" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
+<a href="https://www.buymeacoffee.com/lifinhime" target="_blank"><img src="icons/buymeacoffee-orange.svg" alt="Buy Me A Coffee" style="height: 100px !important;width: 350p !important;"></a>
