@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### <div align="center">I'm Maksym, a full-time front-end developer 😊</div>
+### <div align="center">Hi there 👋 I'm Maksym, a full-time front-end developer 😊</div>
 
 ---
 
