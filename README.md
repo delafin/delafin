@@ -6,7 +6,7 @@
 
 ## 💻 Frontend ⚡
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="left" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
 	<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="icons/react-colored.svg" alt="React" height="50" /></a>
 	<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="icons/nextjs-colored.svg" alt="React" height="50" /></a>
 	<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="icons/javascript-colored.svg" alt="JavaScript" height="50" /></a>  
@@ -29,7 +29,7 @@
 
 ## 💻 DevOps ⚡
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="left" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
 	<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px;" src="icons/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 	<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px;" src="icons/docker-original-wordmark.svg" alt="AWS" height="50" /></a>
 	<a href="https://github.com/" target="_blank"><img style="margin: 10px; display:block" src="icons/github.svg" alt="Git" height="50" /></a>
