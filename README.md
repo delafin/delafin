@@ -2,9 +2,9 @@
 
 ---
 
-### My Skill Set ⚡
+### My Skill Set:
 
-## 💻 Frontend ⚡
+## 🔹 Frontend
 
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
 	<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="icons/react-colored.svg" alt="reactjs" height="50" /></a>
@@ -25,7 +25,7 @@
 	<a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="icons/gulp-plain.svg" alt="gulpjs" height="50" /></a>
 </div>
 
-## 💻 DevOps ⚡
+## 🔹DevOps ⚡
 
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
 	<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px;" src="icons/amazonwebservices-original-wordmark.svg" alt="amazon" height="50" /></a>
