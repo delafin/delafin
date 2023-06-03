@@ -12,6 +12,7 @@
 	<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="icons/javascript-colored.svg" alt="javascript" height="50" /></a>  
 	<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="icons/typescript-colored.svg" alt="typescriptlang" height="50" /></a>
 	<a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="icons/zod.svg" alt="zod" height="50" /></a>
+	<a href="https://tanstack.com/" target="_blank"><img style="margin: 10px" src="icons/tanstack.svg" alt="tanstack" height="50" /></a>
 	<a href="https://hasura.io/" target="_blank"><img style="margin: 10px" src="icons/hasura.svg" alt="hasura" height="50" /></a>
 	<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="icons/graphql.svg" alt="graphql" height="50" /></a>
 	<a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="icons/storybook.svg" alt="storybook" height="50" /></a>
