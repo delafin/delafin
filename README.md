@@ -40,8 +40,8 @@
 
 Your support is greatly appreciated, regardless of the form it takes. By donating, you provide the resources necessary to explore fresh ideas, develop groundbreaking software, and contribute to open source technology. Thank you!
 
-<div align="left" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
-<a href="https://www.buymeacoffee.com/lifinhime" target="_blank"><img src="icons/patreon.svg" alt="Buy Me A Coffee" style="height: 40px !important;width: 140p !important;"></a>
+<div align="top" style="display: flex; align-items: start; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<a href="https://www.buymeacoffee.com/lifinhime" target="_blank"><img src="icons/buymeacoffee-orange.svg" alt="Buy Me A Coffee" style="height: 40px !important;width: 140p !important; margin-right: 20px"></a>
 
 <a href="https://www.patreon.com/lifinhime" target="_blank"><img src="icons/patreon.svg" alt="Buy Me A Coffee" style="height: 40px !important;width: 140p !important;"></a>
 
